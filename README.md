@@ -1,5 +1,7 @@
 ## Trie-Serialize
 Serializes and Deserializes to and from text file and trie data structure using C++.
+![https://www.geeksforgeeks.org/trie-display-content/]
+
 
 ### Serializer
 Serialize a trie into a text file
